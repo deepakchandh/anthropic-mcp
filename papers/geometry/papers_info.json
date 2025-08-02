@@ -1,0 +1,49 @@
+{
+  "2311.06778v1": {
+    "title": "Lectures on Finslerian Geometry",
+    "authors": [
+      "Oumar Wone"
+    ],
+    "summary": "Lecture notes on Finsler Geometry",
+    "pdf_url": "http://arxiv.org/pdf/2311.06778v1",
+    "published": "2023-11-12"
+  },
+  "1601.02743v1": {
+    "title": "Lectures notes in universal algebraic geometry",
+    "authors": [
+      "A. Shevlyakov"
+    ],
+    "summary": "Lectures notes in universal algebraic geometry for beginners",
+    "pdf_url": "http://arxiv.org/pdf/1601.02743v1",
+    "published": "2016-01-12"
+  },
+  "1810.06489v1": {
+    "title": "The Generalised Complex Geometry of $(p,q)$ Hermitian Geometries",
+    "authors": [
+      "Chris Hull",
+      "Ulf Lindstr\u00f6m"
+    ],
+    "summary": "We define $(p,q)$ hermitian geometry as the target space geometry of the two\ndimensional $(p,q)$ supersymmetric sigma model. This includes generalised\nK\\\"{a}hler geometry for $(2,2)$, generalised hyperk\\\"{a}hler geometry for\n$(4,2)$, strong K\\\"{a}hler with torsion geometry for $(2,1)$ and strong\nhyperk\\\"{a}hler with torsion geometry for $(4,1)$. We provide a generalised\ncomplex geometry formulation of hermitian geometry, generalising Gualtieri's\nformulation of the $(2,2)$ case. Our formulation involves a chiral version of\ngeneralised complex structure and we provide explicit formulae for the map to\ngeneralised geometry.",
+    "pdf_url": "http://arxiv.org/pdf/1810.06489v1",
+    "published": "2018-10-15"
+  },
+  "1805.02196v1": {
+    "title": "Geometry of symplectic log Calabi-Yau pairs",
+    "authors": [
+      "Tian-Jun Li",
+      "Cheuk Yu Mak"
+    ],
+    "summary": "We will survey some aspects of the smooth topology, algebraic geometry,\nsymplectic geometry and contact geometry of anti-canonical pairs in complex\ndimension two.",
+    "pdf_url": "http://arxiv.org/pdf/1805.02196v1",
+    "published": "2018-05-06"
+  },
+  "0904.3361v1": {
+    "title": "Abel Prize 2009 as a necessitation to discussion on geometry, or physicist versus geometers",
+    "authors": [
+      "Yuri A. Rylov"
+    ],
+    "summary": "Contemporary geometers do not acknowledge nonaxomatizable geometries. This\nfact means that our knowledge of geometry is poor. A perfect knowledge of\ngeometry is important for \"consumers of geometry\" (physicists dealing with\ngeometry of microcosm), because poor knowledge of geometry forces physicists to\nrefuse from the orthodox geometrical paradigm and to use the quantum paradigm,\nwhich is a simple fitting, compensating our imperfect knowledge of geometry.",
+    "pdf_url": "http://arxiv.org/pdf/0904.3361v1",
+    "published": "2009-04-22"
+  }
+}
