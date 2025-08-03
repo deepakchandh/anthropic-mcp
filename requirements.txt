@@ -1,3 +1,4 @@
 arxiv
 python-dotenv
 anthropic
+fastmcp

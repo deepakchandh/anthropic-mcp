@@ -16,7 +16,8 @@ class MCP_ChatBot:
     def __init__(self):
         # Initialize session and client objects
         self.session: ClientSession = None
-        self.anthropic = Anthropic()
+        # this api key added doesn't have subscription.
+        self.anthropic = Anthropic(api_key='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')
         self.available_tools: List[dict] = []
 
     async def process_query(self, query):
