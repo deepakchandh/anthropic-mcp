@@ -118,6 +118,9 @@ class MCP_ChatBot:
         """Run an interactive chat loop"""
         print("\nMCP Chatbot Started!")
         print("Type your queries or 'quit' to exit.")
+        print("use @folder to see available topics")
+        print("use @topic to search papers in that topic")
+        print("use /prompt <name> <arg1=value1> to execute a prompt")
 
         while True:
             try:
